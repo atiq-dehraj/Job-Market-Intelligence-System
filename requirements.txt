@@ -3,3 +3,6 @@ numpy
 matplotlib
 requests
 python-dotenv
+jupyter
+notebook
+pyarrow
